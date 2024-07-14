@@ -8,3 +8,4 @@ this is the third line on branch new_idea.
 this is the fourth line on branch new_idea.
 this is the first line on branch next_product.
 this is the fifth line on branch new_idea.
+this is the sixth line on branch new_idea.
