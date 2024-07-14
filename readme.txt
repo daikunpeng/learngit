@@ -6,3 +6,4 @@ this is the first line on branch new_idea.
 this is the second line on branch new_idea.
 this is the third line on branch new_idea.
 this is the fourth line on branch new_idea.
+this is the first line on branch next_product.
